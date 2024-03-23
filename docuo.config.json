@@ -3,7 +3,7 @@
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "Otter",
+      "title": "Otr",
       "logo": "image/logo.png",
       "items": [
         {
